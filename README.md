@@ -1,2 +1,10 @@
-# Max-Heap-and-BST-data-structure
-In this project, I designed the heap data structure and binary search tree data structure. I also implemented Traversal functions in bst and sorting them in both data structures and functions to add nodes or remove specific nodes. I made the MaXHeap  with Python language and the binary search tree with C# language.
+# Max Heap 
+Here we built MaxHeap and implemented the following important functions:
+1- Insert Heap
+2- Is Heap
+3- Find Delete from Heap
+4- Print Sorted Heap
+5- Merge Heaps
+6- Print kth Biggest Num In Heap
+7- Heap to BST
+At the end of the work, we designed the BST class and converted MaxHeap to BST.
