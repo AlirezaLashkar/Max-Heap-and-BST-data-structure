@@ -9,7 +9,7 @@ Here we built MaxHeap and implemented the following important functions:
 6- Print kth Biggest Num In Heap
 7- Heap to BST
 # Binary Search Tree
-##BSTs are used for indexing in databases. It is used to implement searching algorithms. BSTs are used to implement Huffman coding algorithm. It is also used to implement dictionaries
+## BSTs are used for indexing in databases. It is used to implement searching algorithms. BSTs are used to implement Huffman coding algorithm. It is also used to implement dictionaries
 Here we built Binary Search Tree and implemented the following important functions:
 1- Insert TO BST
 2- Is BST 
